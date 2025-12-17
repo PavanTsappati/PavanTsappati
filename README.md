@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Pavan Tsappati</h1>
-<h3 align="center">Java Backend / Full Stack Developer (Fresher) from India 🇮🇳</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | MySQL</h3>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech in Computer Science Engineering (2021–2025)
 - 💡 Strong foundation in **Java, Spring Boot, REST APIs, and MySQL**
-- 🧠 Interested in **backend development & scalable systems**
-- 🛠 Built multiple hands-on projects covering real-world use cases
-- 📚 Focused on clean code, proper layering, and best practices
+- 🧠 Interested in backend development and scalable systems
+- 🛠 Hands-on experience through real-world backend and full-stack projects
+- 📚 Focused on writing clean, maintainable, and well-structured code
 - 📍 Actively seeking **Fresher / Entry-level Software Developer roles**
 
 ---
@@ -38,7 +38,7 @@
 ### 📘 Core Concepts
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- API Design, Validation & Testing
+- API Design, Validation, and Testing
 
 ---
 
@@ -46,7 +46,7 @@
 
 ### 🛒 E-Commerce Web Application
 Developed a full-stack e-commerce application simulating real-world online shopping workflows such as user authentication, product browsing, cart management, and order placement.  
-Backend services were implemented using Spring Boot with REST APIs and MySQL for data persistence.
+Implemented backend services using Spring Boot with REST APIs and MySQL for data persistence.
 
 🔹 **Tech Stack:** Java, Spring Boot, REST APIs, MySQL, HTML, CSS, JavaScript  
 🔗 **GitHub:** https://github.com/PavanTsappati/ecommerce-project  
@@ -55,7 +55,7 @@ Backend services were implemented using Spring Boot with REST APIs and MySQL for
 
 ### 📝 Task Manager Web Application
 Built a secure task management system with login authentication and complete CRUD functionality.  
-Implemented pagination, search, validation, and audit logging to track task updates efficiently.
+Implemented pagination, search, validation, and audit logging to efficiently track task updates.
 
 🔹 **Tech Stack:** Spring Boot, Spring Security, JPA/Hibernate, HTML, CSS, JavaScript  
 🔗 **GitHub:** https://github.com/PavanTsappati/Task-Manager-App  
@@ -64,7 +64,7 @@ Implemented pagination, search, validation, and audit logging to track task upda
 
 ### 📦 Product Management REST API
 Designed and developed a REST API to manage product data with proper request validation and HTTP status handling.  
-All endpoints were tested using Postman to ensure reliable JSON input/output behavior.
+Tested all endpoints using Postman to ensure reliable JSON input/output behavior.
 
 🔹 **Tech Stack:** Spring Boot, MySQL, JPA, Postman  
 🔗 **GitHub:** https://github.com/PavanTsappati/Crud_Operations  
@@ -84,4 +84,4 @@ All endpoints were tested using Postman to ensure reliable JSON input/output beh
 
 ---
 
-⭐ *Backend-focused fresher passionate about building reliable and maintainable software systems.*
+⭐ *Java backend fresher focused on building reliable and scalable software systems.*
