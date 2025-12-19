@@ -17,7 +17,7 @@
 
 ### 💻 Programming Languages
 - Java  
-- SQL  
+- MySQL  
 
 ### ⚙️ Backend & Frameworks
 - Spring Boot  
