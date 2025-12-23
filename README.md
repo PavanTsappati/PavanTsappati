@@ -17,7 +17,7 @@
 **Java | Spring Boot | REST APIs | JDBC | SQL | MySQL | Git | Postman | OOPs | DSA**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,postman,idea,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,postman,idea" />
 </p>
 
 ---
@@ -53,9 +53,6 @@
     <img src="https://img.shields.io/badge/GITHUB-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://pavantsappati.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 </p>
 
 ---
