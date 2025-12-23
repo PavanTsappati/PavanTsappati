@@ -31,10 +31,32 @@
 
 ---
 
-### 🔹 [Task Manager Web Application](https://github.com/PavanTsappati/Task-Manager-App)
+### 🔹 [Task Manager Web Application](https://github.com/PavanTsappati/Task-manager-App)
 - Secure authentication using Spring Security  
 - CRUD operations, pagination & search  
 - Audit logging and backend validation  
+
+---
+
+## 🔗 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/pavan-tsappati/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:pavan.tsappati5@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/PavanTsappati" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-121011?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://pavantsappati.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -44,11 +66,4 @@ Kakinada Institute of Engineering & Technology
 
 ---
 
-## 📫 Connect with Me
-📧 Email: pavan.tsappati5@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/pavan-tsappati/  
-💻 GitHub: https://github.com/PavanTsappati  
-
----
-
-Java Backend Developer | Spring Boot | REST APIs | MySQL | Fresher
+Java Backend Developer | Spring Boot | REST APIs | MySQL | Fresher Software Engineer
