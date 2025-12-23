@@ -16,31 +16,22 @@
 
 **Java | Spring Boot | REST APIs | JDBC | SQL | MySQL | Git | Postman | OOPs | DSA**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,eclipse" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,postman,idea,eclipse" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 [E-Commerce Web Application](https://github.com/PavanTsappati/ecommerce)
+### 🔹 [E-Commerce Web Application](https://github.com/PavanTsappati/ecommerce-project)
 - Spring Boot backend with JWT authentication  
 - Product, Cart & Order CRUD using MySQL + JPA  
 - REST APIs tested using Postman  
 
 ---
 
-### 🔹 [Task Manager Web Application](https://github.com/PavanTsappati/task-manager)
+### 🔹 [Task Manager Web Application](https://github.com/PavanTsappati/Task-Manager-App)
 - Secure authentication using Spring Security  
 - CRUD operations, pagination & search  
 - Audit logging and backend validation  
@@ -48,7 +39,7 @@
 ---
 
 ## 🎓 Education
-Bachelor of Technology – Computer Science Engineering (2021–2025)  
+**Bachelor of Technology – Computer Science Engineering (2021–2025)**  
 Kakinada Institute of Engineering & Technology
 
 ---
@@ -60,4 +51,4 @@ Kakinada Institute of Engineering & Technology
 
 ---
 
-Java Developer | Spring Boot | REST APIs | MySQL | Backend Developer
+Java Backend Developer | Spring Boot | REST APIs | MySQL | Fresher
