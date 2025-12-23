@@ -1,75 +1,57 @@
-# Hi 👋, I'm Pavan Tsappati
+# 👋 Hi, I'm Pavan Tsappati
 
-🎯 **Java Backend / Full Stack Developer (Fresher)**  
-💻 Passionate about building scalable backend applications using Java & Spring Boot
+🚀 A Passionate Java Backend / Full Stack Developer from India
+
+---
+
+## 👨‍💻 About Me
+- Java Developer passionate about backend development
+- Experienced with Spring Boot, REST APIs, and MySQL
+- Interested in entry-level software / backend roles
+- Based in India
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 🔹 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=sql" />
+Java | Spring Boot | REST APIs | JDBC | SQL | MySQL | Git | Postman | OOPs | DSA
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
 </p>
-
-### 🔹 Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-  <img src="https://skillicons.dev/icons?i=hibernate" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,h2" />
 </p>
-
-- Spring Boot  
-- RESTful APIs  
-- JDBC  
-- JWT Authentication  
-
-### 🔹 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
-
-- MySQL  
-- H2 Database  
-
-### 🔹 Core Concepts
-- Object-Oriented Programming (OOPs)  
-- Data Structures & Algorithms  
-- REST API Design  
-- Clean Code Practices  
-
-### 🔹 Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,eclipse" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=idea,eclipse" />
 </p>
 
 ---
 
 ## 📌 Projects
 
-### 🛒 E-Commerce Web Application
-- Spring Boot backend with JWT authentication  
-- Product, Cart & Order CRUD using MySQL + JPA  
-- REST APIs tested using Postman  
+### E-Commerce Web Application
+Spring Boot based e-commerce application with JWT authentication, product/cart/order CRUD, MySQL database, and REST APIs tested using Postman.
 
-### ✅ Task Manager Web Application
-- Secure authentication using Spring Security  
-- CRUD operations, pagination & search  
-- Audit logging and backend validation  
+### Task Manager Web Application
+Secure task management system with authentication, CRUD operations, pagination, search, and audit logging using Spring Security and JPA.
 
 ---
 
 ## 🎓 Education
-- **B.Tech – Computer Science Engineering (2021–2025)**  
-  Kakinada Institute of Engineering & Technology
+Bachelor of Technology – Computer Science Engineering (2021–2025)  
+Kakinada Institute of Engineering & Technology
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: **pavan.tsappati5@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/pavan-tsappati/  
-- 💻 GitHub: https://github.com/PavanTsappati
+## 📫 Connect with Me
+Email: pavan.tsappati25@gmail.com  
+LinkedIn: https://www.linkedin.com/in/pavan-tsappati/  
+GitHub: https://github.com/PavanTsappati  
 
 ---
 
-⭐ *Backend-focused Java Developer actively seeking entry-level opportunities*
+Java Developer | Spring Boot | REST APIs | MySQL | Backend Developer
