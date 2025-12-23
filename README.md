@@ -14,30 +14,36 @@
 
 ## 🛠️ Skills & Technologies
 
-Java | Spring Boot | REST APIs | JDBC | SQL | MySQL | Git | Postman | OOPs | DSA
+**Java | Spring Boot | REST APIs | JDBC | SQL | MySQL | Git | Postman | OOPs | DSA**
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
 </p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,h2" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,postman" />
 </p>
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=idea,eclipse" />
 </p>
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-### E-Commerce Web Application
-Spring Boot based e-commerce application with JWT authentication, product/cart/order CRUD, MySQL database, and REST APIs tested using Postman.
+### 🔹 [E-Commerce Web Application](https://github.com/PavanTsappati/ecommerce)
+- Spring Boot backend with JWT authentication  
+- Product, Cart & Order CRUD using MySQL + JPA  
+- REST APIs tested using Postman  
 
-### Task Manager Web Application
-Secure task management system with authentication, CRUD operations, pagination, search, and audit logging using Spring Security and JPA.
+---
+
+### 🔹 [Task Manager Web Application](https://github.com/PavanTsappati/task-manager)
+- Secure authentication using Spring Security  
+- CRUD operations, pagination & search  
+- Audit logging and backend validation  
 
 ---
 
@@ -48,9 +54,9 @@ Kakinada Institute of Engineering & Technology
 ---
 
 ## 📫 Connect with Me
-Email: pavan.tsappati25@gmail.com  
-LinkedIn: https://www.linkedin.com/in/pavan-tsappati/  
-GitHub: https://github.com/PavanTsappati  
+📧 Email: pavan.tsappati5@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/pavan-tsappati/  
+💻 GitHub: https://github.com/PavanTsappati  
 
 ---
 
